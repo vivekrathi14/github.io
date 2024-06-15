@@ -3,7 +3,7 @@
 title: Vivek Onkarnath Rathi
 description: Software Engineer
 
-baseurl: /vivekrathi14.github.io #name of GitHub repository
+baseurl: ./vivekrathi14.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: vivekrathi14@gmail.com
 
