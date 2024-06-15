@@ -14,7 +14,7 @@ body {
   text-rendering: optimizeLegibility;
   height: 100%;
 
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: light) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
   }
@@ -35,7 +35,7 @@ a {
   &:hover{
     color: $text-color;
 
-    @media (prefers-color-scheme: dark) {
+    @media (prefers-color-scheme: light) {
       color: $text-color-dark;
     }
 
@@ -65,7 +65,7 @@ p a {
 
   }
 
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: light) {
     color: $text-color-dark;
   }
 }
