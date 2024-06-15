@@ -1,11 +1,11 @@
-### your site title here
+### Tech Portfolio
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Vivek Onkarnath Rathi
+description: Software Engineer
 
 baseurl: vivekrathi14.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: vivekrathi14@gmail.com
 
 # Pagination
 paginate: 4
